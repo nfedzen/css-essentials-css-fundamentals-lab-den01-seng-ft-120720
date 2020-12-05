@@ -20,6 +20,7 @@ figcaption {
 }
 
 nav {
-  
+ display:block;
+ margin: auto;
 }
 }
