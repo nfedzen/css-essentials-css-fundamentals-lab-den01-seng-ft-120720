@@ -20,7 +20,7 @@ figcaption {
 }
 
 nav {
- display:block;
+ display:inline-block;
  margin: auto;
 }
 }
