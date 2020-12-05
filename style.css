@@ -34,7 +34,6 @@ a {
  margin:0 auto;
 }
 
-section#display div{
+#display{
   display: block;
-  float:left;
 }
