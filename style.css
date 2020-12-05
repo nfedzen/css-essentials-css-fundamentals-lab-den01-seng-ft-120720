@@ -28,3 +28,7 @@ a {
   padding: 10px;
   background-color: gray;
 }
+p#featured-property {
+ width:800px; 
+}
+}
